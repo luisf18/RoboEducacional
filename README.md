@@ -12,4 +12,4 @@ Robô circular impresso simples.
 
 <img src="imagens/montagem_motor_n20.png" alt="Montagem">
 
-<img src="imagens/montagem_motor_tt_vista_superior.png" alt="Montagem">
+<img src="imagens/montagem_motor_n20_vista_superior.png" alt="Montagem">
